@@ -1,0 +1,17 @@
+{
+  "name": "binaryTree",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.2",
+    "jest": "^25.1.0",
+    "mocha": "^7.0.1"
+  },
+  "dependencies": {}
+}
