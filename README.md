@@ -23,5 +23,3 @@ Basic javascript binary tree module.
 ### License
 
 MIT license.
-
-# BinaryTree-Javascript
